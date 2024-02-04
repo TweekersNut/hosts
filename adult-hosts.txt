@@ -13185,3 +13185,4 @@
 0.0.0.0   zzitube.com
 0.0.0.0   amp.xhamster.com
 0.0.0.0   amp.xhamster.desi
+0.0.0.0   xhamster42.desi
