@@ -5,6 +5,9 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# [oneplus]
+127.0.0.1 click.oneplus.cn
+
 # [163.com]
 127.0.0.1 analytics.163.com
 127.0.0.1 crash.163.com
