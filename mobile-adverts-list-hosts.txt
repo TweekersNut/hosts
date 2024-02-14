@@ -6242,6 +6242,14 @@
 127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 xiaomi-mipdx.cn.miaozhen.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 metrics.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 grs.hicloud.com
+127.0.0.1 logbak.hicloud.com
+127.0.0.1 logservice1.hicloud.com
+127.0.0.1 logservice.hicloud.com
 
 # [micpn.com]
 127.0.0.1 micpn.com
