@@ -5,8 +5,6 @@
 127.0.0.1  localhost
 ::1  localhost
 
-snapchat-proxy.appspot.com
-
 bolt-gcdn.sc-cdn.net
 
 gtq6.sct.sc-prod.net
