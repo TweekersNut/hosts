@@ -5,15 +5,6 @@
 127.0.0.1  localhost
 ::1  localhost
 
-bolt-gcdn.sc-cdn.net
-
-gtq6.sct.sc-prod.net
-
-us-east1-aws.api.snapchat.com
-
-gcp.api.snapchat.com
-
-usc.adserver.snapads.com
 
 127.0.0.1 adserver-1768966121.us-east-1.elb.amazonaws.com
 
