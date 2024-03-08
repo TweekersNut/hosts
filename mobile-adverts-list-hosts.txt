@@ -5,8 +5,6 @@
 127.0.0.1  localhost
 ::1  localhost
 
-analytics.snapchat.com
-
 app-analytics.snapchat.com
 
 app-analytics-v2.snapchat.com
