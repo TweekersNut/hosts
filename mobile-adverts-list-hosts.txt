@@ -5,10 +5,6 @@
 127.0.0.1  localhost
 ::1  localhost
 
-app-analytics.snapchat.com
-
-app-analytics-v2.snapchat.com
-
 snapchat-proxy.appspot.com
 
 bolt-gcdn.sc-cdn.net
