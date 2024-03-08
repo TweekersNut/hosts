@@ -11,6 +11,7 @@ app-analytics.snapchat.com
 us-east1-aws.api.snapchat.com
 gcp.api.snapchat.com
 usc.adserver.snapads.com
+aws-proxy-gcp.api.snapchat.com
 
 127.0.0.1 adserver-1768966121.us-east-1.elb.amazonaws.com
 
