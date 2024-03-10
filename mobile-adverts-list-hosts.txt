@@ -6,15 +6,6 @@
 ::1  localhost
 
 # [snapchat]
-127.0.0.1  analytics.snapchat.com
-127.0.0.1  app-analytics.snapchat.com
-127.0.0.1  us-east1-aws.api.snapchat.com
-127.0.0.1  gcp.api.snapchat.com
-127.0.0.1  usc.adserver.snapads.com
-127.0.0.1  aws-proxy-gcp.api.snapchat.com
-127.0.0.1  us-east4-gcp.api.snapchat.com
-127.0.0.1  usc1-gcp-v62.api.snapchat.com
-127.0.0.1  aws.duplex.snapchat.com
 
 127.0.0.1 adserver-1768966121.us-east-1.elb.amazonaws.com
 
