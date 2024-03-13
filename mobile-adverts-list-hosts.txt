@@ -5,8 +5,11 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# [snapchat]
+127.0.0.1 ads.yieldmo.com
+127.0.0.1  rtb-csync.smartadserver.com
+127.0.0.1  
 
+# [snapchat]
 127.0.0.1 adserver-1768966121.us-east-1.elb.amazonaws.com
 
 # [oneplus]
