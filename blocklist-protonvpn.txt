@@ -1,5 +1,5 @@
 # protonvpn.com
-
+0.0.0.0 vpn-api.proton.me
 0.0.0.0 protonvpn.com
 0.0.0.0 account.protonvpn.com
 0.0.0.0 ch-md-01.protonvpn.com
